@@ -2,7 +2,7 @@
 Analyzing Customer Feedback - Internship Project in British Airways
 
 ---
-**Project status** = Done
+**Project status** = Done  
 **Source of dataset** https://www.airlinequality.com/airline-reviews/british-airways/  
 
 ### Project Context  
