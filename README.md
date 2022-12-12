@@ -3,6 +3,7 @@ Analyzing Customer Feedback - Internship Project in British Airways
 
 ---
 **Project status** = Done  
+**Final Presentation** [Presentation in pptx](https://github.com/IchfanKurniawan/british-airways-intern-project/tree/main/presentation)  
 **Source of dataset** https://www.airlinequality.com/airline-reviews/british-airways/  
 
 ### Project Context  
