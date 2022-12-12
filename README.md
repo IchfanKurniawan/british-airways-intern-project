@@ -23,7 +23,7 @@ Customers who book a flight with BA will experience many interaction points with
 4. Presenting the findings
 
 ### Project Planning
-1. Scraping & collecting customer feedback data has already done in `scrape_script.py` inside `code` folder
+1. Scraping & collecting customer feedback data has already done in `scrape_script.py`
 2. Exploratory Data Analysis
     - Data Structure
     - Data Quality
